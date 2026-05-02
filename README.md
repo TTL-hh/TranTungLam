@@ -177,7 +177,7 @@ SELECT * FROM fn_HoaDonLonHon(20000);
 ```
 
 📸
-![Multi Function](images/part2_multi.png)
+![Multi Function](images/part7.png)
 
 **Chú thích:**
 Lọc các hóa đơn có tổng tiền lớn hơn giá trị truyền vào.
