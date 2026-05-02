@@ -283,7 +283,7 @@ END;
 ```
 
 📸
-![Trigger](images/part4_trigger.png)
+![Trigger](images/part12.png)
 
 **Chú thích:**
 Khi thêm hóa đơn → máy tự chuyển sang trạng thái "Đang dùng".
