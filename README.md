@@ -244,7 +244,7 @@ SELECT @Tong;
 ```
 
 📸
-![SP Output](images/part3_output.png)
+![SP Output](images/part10.png)
 
 ---
 
