@@ -95,6 +95,9 @@ SELECT LEN(N'PhongNet');
 SELECT ABS(-10);
 ```
 
+## 📸 Ảnh minh họa
+
+![Built-in](images/part2.png)
 **Giải thích:**
 
 * `GETDATE()` → lấy thời gian hiện tại
