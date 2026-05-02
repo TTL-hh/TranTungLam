@@ -326,7 +326,7 @@ DEALLOCATE cur;
 ```
 
 📸
-![Cursor](images/part5_cursor.png)
+![Cursor](images/part13.png)
 
 ---
 
@@ -338,7 +338,7 @@ SET TongTien = 10000;
 ```
 
 📸
-![No Cursor](images/part5_nocursor.png)
+![No Cursor](images/part14.png)
 
 ---
 
