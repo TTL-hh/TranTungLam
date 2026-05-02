@@ -40,6 +40,9 @@ CREATE TABLE [DocGia] (
 );
 GO
 ```
+
+![Ảnh 2](Anh/s2.png)
+
 - Mục đích: bảng độc giả
 - Kết quả: bảng được tạo thành công
 
@@ -57,6 +60,9 @@ CREATE TABLE [Sach] (
 );
 GO
 ```
+
+![Ảnh 3](Anh/s3.png)
+
 - Mục đích: lưu thông tin sản phẩm
 - Ràng buộc:
   - PK: MaSP
@@ -75,7 +81,9 @@ CREATE TABLE [PhieuMuon] (
         CHECK ([soNgayMuon] > 0 AND [soNgayMuon] <= 30), -- (CK) Ràng buộc cứng: Chỉ được mượn từ 1 đến 30 ngày
 ```
 
-- Mục đích: lưu thông tin đơn hàng
+![Ảnh 4](Anh/s4.png)
+
+- Mục đích: lưu thông tin mượn sách
 - Ràng buộc:
   - PK: MaDH
   - CHECK: TongTien > 0
