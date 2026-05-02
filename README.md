@@ -23,3 +23,4 @@ GO
 
 - Mục đích: tạo cơ sở dữ liệu cho hệ thống quản lý gear
 - Kết quả: database được tạo thành công
+![Ảnh 1](Anh/Anh s1.png)
