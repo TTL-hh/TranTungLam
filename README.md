@@ -219,7 +219,7 @@ END;
 ```
 
 📸
-![SP Insert](images/part3_insert.png)
+![SP Insert](images/part9.png)
 
 ---
 
