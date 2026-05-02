@@ -193,6 +193,8 @@ EXEC sp_help KhachHang;
 EXEC sp_columns KhachHang;
 ```
 
+## 📸 Ảnh minh họa
+![System Stored Procedure](images/part8.png)
 **Giải thích:**
 
 * `sp_help`: xem cấu trúc bảng
