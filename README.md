@@ -125,7 +125,7 @@ SELECT dbo.fn_TinhTien(3);
 Hàm dùng để tính tiền dựa trên số giờ sử dụng máy.
 
 📸
-![Scalar Function](images/part2_scalar.png)
+![Scalar Function](images/part3.png)
 
 ---
 
@@ -146,8 +146,8 @@ SELECT * FROM fn_MayDangDung();
 ```
 
 📸
-![Inline Function](images/part2_inline.png)
-
+![Inline Function](images/part4.png)
+![Inline Function](images/part5.png)
 **Chú thích:**
 Trả về danh sách các máy đang được sử dụng.
 
