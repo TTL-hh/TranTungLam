@@ -262,7 +262,7 @@ END;
 ```
 
 📸
-![SP Join](images/part3_join.png)
+![SP Join](images/part11.png)
 
 ---
 
